@@ -52,22 +52,22 @@ export const siteConfig = {
         },
         {
             id: 5,
-            src: "/album/kamera.jpg",
+            src: "/album/kamera.JPG",
             caption: "Our fav cofas😋"
         },
         {
             id: 6,
-            src: "/album/luaran.jpg",
+            src: "/album/luaran.JPG",
             caption: "Ceritanya nyelesaiin tugas action plan"
         },
         {
             id: 7,
-            src: "/album/bunga.jpg",
+            src: "/album/bunga.JPG",
             caption: "Bunga bwt cofas"
         },
         {
             id: 8,
-            src: "/album/doorprize.jpg",
+            src: "/album/doorprize.JPG",
             caption: "foto sama kipas    ceritanya"
         }
     ]
