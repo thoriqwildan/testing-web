@@ -75,6 +75,7 @@ export default function FarewellPage() {
   }
 
   // --- VIEW: MAIN CONTENT ---
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   let activeLetter: any;
   if (authStatus === "pin1") {
     activeLetter = siteConfig.letters.pin1;
