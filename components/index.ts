@@ -8,4 +8,3 @@ export { default as LetterSection } from "./LetterSection";
 export { default as LightboxModal } from "./LightboxModal";
 export { default as LetterModal } from "./LetterModal";
 export { default as BgmToggle } from "./BgmToggle";
-export { default as FloralTransition } from "./FloralTransition";
